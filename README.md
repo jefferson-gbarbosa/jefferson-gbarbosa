@@ -10,7 +10,8 @@
 
 <div align="center">
  
-  ![jefferson-gbarbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferson-gbarbosa&show_icons=true&theme=radical)
+  ![jefferson-gbarbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferson-gbarbosa&show_icons=true&theme=dracula)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-gbarbosa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div> 
 
 ### Tecnologias do meu dia a dia
