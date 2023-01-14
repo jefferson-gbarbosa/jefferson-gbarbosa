@@ -9,9 +9,8 @@
 
 
 <div align="center">
- 
-  ![jefferson-gbarbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferson-gbarbosa&show_icons=true&theme=dracula)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-gbarbosa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   <img height="180em" src="https://github-readme-stats-omega-silk.vercel.app/api?username=jefferson-gbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+   <img height="180em" src="https://github-readme-stats-omega-silk.vercel.app/api/top-langs?username=jefferson-gbarbosa&layout=compact&langs_count=16&theme=tokyonight" />
 </div> 
 
 ### Tecnologias do meu dia a dia
