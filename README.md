@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jefferson Gonçalves 👋
 
 
-- 🌱 Atualmente estou estudando técnico em desenvolvimento de sistemas e começando no universo front end
+- 🌱 Formado em técnico em desenvolvimento de sistemas,atualmente, estou estudando análise e desenvolvimento de sistemas.Aprofundado no universo front end
 - 😄 Pronouns: ele/dele
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jeffbarbosa42)
