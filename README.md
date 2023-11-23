@@ -1,5 +1,6 @@
 # 💫 Sobre mim:
-Olá 👋, sou o Jefferson Gonçalves<br​​>Um estudante front-end<br>
+Olá 👋, sou o Jefferson Gonçalves
+- Um estudante front-end
 - 🌱 Atualmente,sou acadêmico de Análise e Desenvolvimento de Sistemas.
 - 😄 Pronouns: ele/dele
 ## 🌐 Sociais:
