@@ -9,7 +9,6 @@ Olá 👋, sou o Jefferson Gonçalves<br​​>Um estudante front-end<br>
 # 📊 GitHub Stats:
 <div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefferson-gbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-   <a href="https://git.io/streak-stats"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=jefferson-gbarbosa&theme=dark&hide_border=falso&card_width=" alt="GitHub Streak" /></a>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jefferson-gbarbosa&layout=compact&langs_count=16&theme=tokyonight" />
 </div> 
 
