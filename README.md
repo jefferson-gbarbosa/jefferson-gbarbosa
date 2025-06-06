@@ -1,8 +1,6 @@
-# 💫 Sobre mim:
-Olá 👋, sou o Jefferson Gonçalves
-- Um estudante de programação
-- 🌱 Atualmente,sou acadêmico de Análise e Desenvolvimento de Sistemas.
-- 😄 Pronouns: ele/dele
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Olá, sou o Jefferson Gonçalves</h1>
+- 🎓 Finalizando o curso de Análise e Desenvolvimento de Sistemas.
+- ⏳ No momento, repositórios em atualização.
 ## 🌐 Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jeffbarbosa42)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-gonçalves-b93313179/)
